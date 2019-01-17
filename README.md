@@ -2,11 +2,11 @@
 
 DESCRIPTION PLACEHOLDER
 
-## What it does
+## 描述信息
 
 FEATURES PLACEHOLDER
 
-## Getting started
+## 特点是没有
 
 1. [Install the bot](https://github.com/apps/welcome) on the intended repositories. The plugin requires the following **Permissions and Events**:
 
